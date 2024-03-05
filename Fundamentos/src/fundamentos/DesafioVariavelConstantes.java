@@ -12,10 +12,11 @@ public class DesafioVariavelConstantes {
 		
 		// Calcular temperatura
 		double celsius = (fahrenhait - AJUSTE) * FATOR;
-		System.out.println(celsius);
+		System.out.println("Resultado do calculo" + celsius);
 		
-		
-		
+		fahrenhait = 150;
+		celsius = (fahrenhait - AJUSTE) * FATOR;
+		System.out.println("Resultado do calculo" + celsius);
 	}
 
 }
