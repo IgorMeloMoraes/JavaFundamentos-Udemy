@@ -1,0 +1,20 @@
+package fundamentos;
+
+public class PrimeiroPrograma {
+	
+	/*
+	  -> ATALHOS 
+	   	. CTLR + ESPAÇO = Abre um leque de possibilidades de completar nosso codigo 
+	   	. Main - Ele cria a classe principal do nosso programa 
+	   	. Syso - Ele cria uma saida do sistema 
+	   	. CTLR + SFIT + F11 - Roda nosso codigo no console 
+	   	
+	 *  */
+	
+	 public static void main(String[] args) {
+		 
+		 // Imprima uma linha na saida do sistema
+		System.out.println("Hello World!");
+	}
+
+}
